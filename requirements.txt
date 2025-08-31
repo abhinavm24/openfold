@@ -5,7 +5,7 @@ dm-tree==0.1.6
 ml-collections==0.1.0
 numpy==1.21.2
 PyYAML==5.4.1
-requests==2.26.0
+requests==2.32.4
 scipy==1.7.1
 torch==1.10.0
 tqdm==4.62.2
